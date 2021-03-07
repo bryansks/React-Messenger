@@ -1,6 +1,6 @@
 # Getting Started with messenger App
 
-This project was with React js and Fisebase usin Firebase Auth (users authentication), Cloud FireStore (Real time database) and Firebase Storage.
+This project was with React js and Fisebase using Firebase Auth (users authentication), Cloud FireStore (Real time database) and Firebase Storage.
 
 ## Demo
 
